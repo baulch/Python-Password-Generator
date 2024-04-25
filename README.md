@@ -18,7 +18,7 @@ wPPG.py is a while-looped python password generator (wPPG) with the criteria lis
     contains only alphanumeric characters (no special characters)
 wPPG2.py is a while-looped python password generator with an additional criteria marker:
 
-    + contains at least one special character (!$%^&*(){})
+    + contains at least one special character:    !"#$%&'()*+,-./:;<=>?@[\]^_`{|}~
 
 
 
